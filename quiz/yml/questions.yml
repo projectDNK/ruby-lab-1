@@ -82,7 +82,7 @@
     - Code simplicity
     - Improved security
 
-- question: In OOP, the term "parent class" refers to:
+- question: In OOP, the term "parent class" refers to
   answers:
     - The class that is inherited by another class
     - The class that inherits another class
@@ -124,7 +124,7 @@
     - Encapsulation
     - Polymorphism
 
-- question: In OOP, the term "interface" refers to:
+- question: In OOP, the term "interface" refers to
   answers:
     - A contract that defines a set of methods that a class must implement
     - A class that is inherited by another class
