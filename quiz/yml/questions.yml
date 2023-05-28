@@ -1,30 +1,139 @@
-- question: Яка технологія використовується для зберігання та обробки даних у великих обсягах?
+- question: What does OOP stand for?
   answers:
-    - Big data
-    - Machine learning
-    - Artificial intelligence
+    - Object-Oriented Programming
+    - Object-Oriented Principles
+    - Object-Oriented Protocol
+    - Object-Oriented Practice
 
-- question: Яке поняття в програмуванні відповідає за здатність програми змінювати свою поведінку залежно від умов виконання?
+- question: Which of the following is not a fundamental concept of OOP?
   answers:
-    - Polymorphism
+    - Iteration
     - Encapsulation
+    - Inheritance
     - Abstraction
 
-- question: Які основні складові мережі Інтернет?
+- question: Which OOP concept allows one class to inherit the properties and methods of another class?
   answers:
-    - Клієнти та сервери
-    - Роутери та комутатори
-    - Протоколи та стандарти
+    - Inheritance
+    - Abstraction
+    - Encapsulation
+    - Polymorphism
 
-- question: Яке поняття в інформаційній безпеці відповідає за забезпечення цілісності даних?
+- question: What is the process of creating an object from a class called in OOP?
   answers:
-    - Confidentiality
-    - Availability
-    - Integrity
+    - Instantiation
+    - Inheritance
+    - Encapsulation
+    - Polymorphism
 
-- question: Що таке Agile методологія розробки програмного забезпечення?
+- question: Which term refers to the ability of an object to take on many forms?
   answers:
-    - Методологія, яка віддає перевагу індивідуальним взаємодіям та роботі над процесами та інструментами.
-    - Методологія, яка підкреслює важливість документування та дотримання заздалегідь визначених процесів.
-    - Методологія, яка віддає перевагу процесам та інструментам, а не індивідуальним взаємодіям.
+    - Polymorphism
+    - Abstraction
+    - Inheritance
+    - Encapsulation
 
+- question: Which OOP concept helps in hiding the internal details of an object and exposing only what is necessary?
+  answers:
+    - Encapsulation
+    - Abstraction
+    - Inheritance
+    - Polymorphism
+
+- question: Which keyword is used in Java to create a new instance of a class?
+  answers:
+    - new
+    - create
+    - instantiate
+    - object
+
+- question: In OOP, a blueprint for creating objects is known as a _______.
+  answers:
+    - class
+    - function
+    - prototype
+    - structure
+
+- question: Which OOP concept allows a class to have multiple methods with the same name but different parameters?
+  answers:
+    - Overloading
+    - Overriding
+    - Inheritance
+    - Polymorphism
+
+- question: Which of the following keywords is not an access modifier in Java?
+  answers:
+    - global
+    - public
+    - private
+    - protected
+
+- question: Which OOP concept allows a class to provide different implementations of a method depending on the object calling it?
+  answers:
+    - Polymorphism
+    - Overloading
+    - Inheritance
+    - Overriding
+
+- question: What is the main advantage of using inheritance in OOP?
+  answers:
+    - Code reuse
+    - Faster execution speed
+    - Code simplicity
+    - Improved security
+
+- question: In OOP, the term "parent class" refers to:
+  answers:
+    - The class that is inherited by another class
+    - The class that inherits another class
+    - The class that encapsulates other classes
+    - An abstract class that cannot be instantiated
+
+- question: Which OOP principle states that objects of different classes can be treated as objects of the same class?
+  answers:
+    - Polymorphism
+    - Abstraction
+    - Inheritance
+    - Encapsulation
+
+- question: Which keyword is used to prevent a method from being overridden in Java?
+  answers:
+    - final
+    - static
+    - abstract
+    - const
+
+- question: In OOP, what is the process of creating new classes based on existing classes called?
+  answers:
+    - Inheritance
+    - Composition
+    - Polymorphism
+    - Encapsulation
+
+- question: Which OOP concept allows a class to implement multiple interfaces?
+  answers:
+    - Inheritance
+    - Composition
+    - Polymorphism
+    - Encapsulation
+
+- question: Which OOP principle states that a class should have only one reason to change?
+  answers:
+    - Single Responsibility Principle
+    - Abstraction
+    - Encapsulation
+    - Polymorphism
+
+- question: In OOP, the term "interface" refers to:
+  answers:
+    - A contract that defines a set of methods that a class must implement
+    - A class that is inherited by another class
+    - A class that encapsulates other classes
+    - Data structures that contain properties and methods
+
+- question: Which keyword is used to prevent a method from being overridden in Java?
+  answers:
+    - final
+    - static
+    - abstract
+    - const
