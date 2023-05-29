@@ -1,6 +1,7 @@
 require "yaml"
 require "json"
 require "pathname"
+require "telegram-bot-ruby"
 
 require_relative "quiz"
 require_relative "config"

@@ -22,8 +22,8 @@ module QuizName
              "Correct answers: #{@correct_answers}\n" \
              "Incorrect answers: #{@incorrect_answers}\n" \
              "Percentage correct: #{'%.2f' % percentage_correct}%\n"
-      puts report
-      @writer.write(report)
+      # puts report
+      # @writer.write(report)
     end
   end
 end
