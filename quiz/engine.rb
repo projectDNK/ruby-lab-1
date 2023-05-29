@@ -53,9 +53,6 @@ module QuizName
           when '/stop'
             bot.api.send_message(chat_id: message.chat.id, text: @statistics.print_report)
           else
-            puts command
-            puts parameter
-            puts @question_collection.collection[number_q].correct_answer
             check(command, @question_collection.collection[number_q].correct_answer)
           end
         end
